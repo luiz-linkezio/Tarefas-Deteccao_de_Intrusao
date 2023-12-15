@@ -1,0 +1,2 @@
+0 mao_fechada
+1 mao_aberta
