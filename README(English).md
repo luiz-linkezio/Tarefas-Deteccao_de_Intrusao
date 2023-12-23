@@ -1,7 +1,7 @@
 # Intrusion Detection Tasks - EC-CIN-UFPE-2023.2
 Tasks from the Intrusion Detection course in the [Computer Engineering (CE)](https://portal.cin.ufpe.br/graduacao/#engenharia-da-computacao) program at [Centro de Informática (CIN)](https://portal.cin.ufpe.br/), [Universidade Federal de Pernambuco (UFPE)](https://www.ufpe.br/). I took this course from 2023 to 2024. The course content covers the application of artificial intelligence techniques in intrusion detection in networks, through the analysis of network packets.
 
-# Task Proposal
+## Task Proposal
 The goal of the tasks was to familiarize students with artificial intelligence and anomaly detection, preparing them for the final project of the course.
 
 The tasks were evaluative. Students had to test the codes provided by the professor, add new codes with new models related to the task category, test all of them, and write comments in the code as if it were a report, including comparisons between different models and hyperparameters.
