@@ -1,7 +1,7 @@
 # Tarefas de Detecção de Intrusao - EC-CIN-UFPE-2023.2
 Tarefas da cadeira de Detecção de Intrusão do curso de [Engenharia da Computação (EC)](https://portal.cin.ufpe.br/graduacao/#engenharia-da-computacao) do [Centro de Informática (CIN)](https://portal.cin.ufpe.br/) da [Universidade Federal de Pernambuco (UFPE)](https://www.ufpe.br/), cadeira cursada por mim de 2023 a 2024. O conteúdo da disciplina abrange a aplicação de técnicas de inteligência artificial na detecção de intrusões em redes, através da análise de pacotes de rede.
 
-# Proposta das Tarefas
+## Proposta das Tarefas
 O objetivo das tarefas foi fazer com que os alunos se familiarizassem com inteligências artificiais e detecções de anomalias, para realizar o projeto final da cadeira. 
 
 As tarefas foram avaliativas, os alunos tinham que testar os códigos fornecidos pelo professor e acrescentar novos códigos com novos modelos da categoria da tarefa, testar todos, escrever no próprio código comentários como se fosse um relatório, inclusive com comparações entre diferentes modelos e hiperparâmetros.
