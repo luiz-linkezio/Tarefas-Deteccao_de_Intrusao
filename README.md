@@ -10,8 +10,8 @@ As tarefas foram avaliativas, os alunos tinham que testar os códigos fornecidos
 Foram 5 tarefas propostas no total:
 - Clustering
 - One-Class Novelty
-- Ataques Adversariais White Box
-- Ataques Adversariais Black Box
+- Ataque Adversarial White Box
+- Ataque Adversarial Black Box
 - Autoencoder
 
 ## Organização de Arquivos
