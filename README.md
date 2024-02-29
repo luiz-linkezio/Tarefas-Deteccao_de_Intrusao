@@ -16,7 +16,8 @@ Foram 5 tarefas propostas no total:
 
 ## Organização de Arquivos
 Na diretório `Dados` estão os dados usados por algumas tarefas, existem tarefas que estão sem dados porque são muito pesados para pôr neste repositório.
-No diretório `Tarefas` estão várias pastas com as respectivas tarefas, dentro de cada pasta desta está o código da tarefa em [Jupyter Notebook](https://jupyter.org).
+
+No diretório `Tarefas` estão várias pastas nomeadas com a respectiva aula/oficina, dentro de cada pasta desta existe uma pasta para cada tarefa da aula/oficina em [Jupyter Notebook](https://jupyter.org).
 
 ## Links:
 
