@@ -13,10 +13,12 @@ There were a total of 5 proposed tasks:
 - White Box Adversarial Attacks
 - Black Box Adversarial Attacks
 - Autoencoder
+- GAN
 
 ## File Organization
 In the `Dados` directory, there are data used by some tasks. Some tasks are without data because they are too large to include in this repository.
-In the `Tarefas` directory, there are several folders with their respective tasks. Inside each folder, there is the task code in [Jupyter Notebook](https://jupyter.org).
+
+In the `Tarefas` directory, there are several folders named after their respective lesson/workshop. Within each of these folders, there is a subfolder for each task of the lesson/workshop in [Jupyter Notebook](https://jupyter.org).
 
 ## Links:
 
