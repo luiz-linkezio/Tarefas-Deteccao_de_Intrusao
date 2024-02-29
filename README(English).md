@@ -13,7 +13,7 @@ There were a total of 6 proposed tasks:
 - White Box Adversarial Attacks
 - Black Box Adversarial Attacks
 - Autoencoder
-- GAN
+- GAN (Generative Adversarial Network)
 
 ## File Organization
 In the `Dados` directory, there are data used by some tasks. Some tasks are without data because they are too large to include in this repository.

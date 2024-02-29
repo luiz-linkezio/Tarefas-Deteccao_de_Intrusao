@@ -13,7 +13,7 @@ Foram 6 tarefas propostas no total:
 - Ataque Adversarial White Box
 - Ataque Adversarial Black Box
 - Autoencoder
-- GAN
+- GAN (Generative Adversarial Network)
 
 ## Organização de Arquivos
 Na diretório `Dados` estão os dados usados por algumas tarefas, existem tarefas que estão sem dados porque são muito pesados para pôr neste repositório.
