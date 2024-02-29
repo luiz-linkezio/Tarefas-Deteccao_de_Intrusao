@@ -7,12 +7,13 @@ O objetivo das tarefas foi fazer com que os alunos se familiarizassem com inteli
 As tarefas foram avaliativas, os alunos tinham que testar os códigos fornecidos pelo professor e acrescentar novos códigos com novos modelos da categoria da tarefa, testar todos, escrever no próprio código comentários como se fosse um relatório, inclusive com comparações entre diferentes modelos e hiperparâmetros.
 
 ## Tarefas Propostas
-Foram 5 tarefas propostas no total:
+Foram 6 tarefas propostas no total:
 - Clustering
 - One-Class Novelty
 - Ataque Adversarial White Box
 - Ataque Adversarial Black Box
 - Autoencoder
+- GAN
 
 ## Organização de Arquivos
 Na diretório `Dados` estão os dados usados por algumas tarefas, existem tarefas que estão sem dados porque são muito pesados para pôr neste repositório.
