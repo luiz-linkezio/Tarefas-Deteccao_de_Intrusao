@@ -7,7 +7,7 @@ The goal of the tasks was to familiarize students with artificial intelligence a
 The tasks were evaluative. Students had to test the codes provided by the professor, add new codes with new models related to the task category, test all of them, and write comments in the code as if it were a report, including comparisons between different models and hyperparameters.
 
 ## Proposed Tasks
-There were a total of 5 proposed tasks:
+There were a total of 6 proposed tasks:
 - Clustering
 - One-Class Novelty
 - White Box Adversarial Attacks
